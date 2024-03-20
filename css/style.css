@@ -167,7 +167,7 @@ section.licence ul.timeline {
 section.licence ul.timeline::before {
   content: "";
   width: 2px;
-  height: 80%;
+  height: 92%;
   position: absolute;
   top: 0;
   bottom: 0;
